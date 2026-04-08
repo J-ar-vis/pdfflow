@@ -26,8 +26,7 @@
 //  12. FOOTER         — site-wide footer
 //  13. APP ROOT       — wires everything together
 // ============================================================
-import React from "react";
-import { useState, useRef, useCallback } from "react";
+import React, { useState, useRef, useCallback } from "react";
 
 // ============================================================
 // 1. DESIGN TOKENS
